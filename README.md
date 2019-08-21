@@ -4,5 +4,5 @@ The PlayStore is a standalone digital marketplace that allows users to browse an
 
 This was my second Java programming assignment as part of my Master of Information Technology degree at RMIt
 
-## Objective:
+#### Objective:
 The main objective of this assignment was to familiarise myself with object-oriented design and programming. The assignment required an understanding of concepts such as inheritance, abstract, classes, method overloading, method overriding and polymorphism.
